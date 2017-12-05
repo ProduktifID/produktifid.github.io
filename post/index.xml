@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Produktif ID</title>
+    <link>http://produktif.id/post/</link>
+    <description>Recent content in Posts on Produktif ID</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Wed, 06 Dec 2017 01:43:39 +0700</lastBuildDate>
+    
+	<atom:link href="http://produktif.id/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IngatAllah</title>
+      <link>http://produktif.id/post/ingatallah/</link>
+      <pubDate>Wed, 06 Dec 2017 01:43:39 +0700</pubDate>
+      
+      <guid>http://produktif.id/post/ingatallah/</guid>
+      <description>Hanya dengan mengingat Allah hati akan menjadi tenang</description>
+    </item>
+    
+    <item>
+      <title>Tidurlah</title>
+      <link>http://produktif.id/post/tidurlah/</link>
+      <pubDate>Wed, 06 Dec 2017 01:28:37 +0700</pubDate>
+      
+      <guid>http://produktif.id/post/tidurlah/</guid>
+      <description>Sudah jam setengah dua pagi, tidurlah</description>
+    </item>
+    
+    <item>
+      <title>Bismillah</title>
+      <link>http://produktif.id/post/bismillah/</link>
+      <pubDate>Wed, 06 Dec 2017 00:13:28 +0700</pubDate>
+      
+      <guid>http://produktif.id/post/bismillah/</guid>
+      <description>Bismillah</description>
+    </item>
+    
+  </channel>
+</rss>
