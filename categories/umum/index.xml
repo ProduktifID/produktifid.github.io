@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Produktif ID</title>
-    <link>http://produktif.id/</link>
-    <description>Recent content on Produktif ID</description>
+    <title>Umum on Produktif ID</title>
+    <link>http://produktif.id/categories/umum/</link>
+    <description>Recent content in Umum on Produktif ID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <lastBuildDate>Fri, 08 Dec 2017 01:08:42 +0700</lastBuildDate>
     
-	<atom:link href="http://produktif.id/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://produktif.id/categories/umum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

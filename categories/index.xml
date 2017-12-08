@@ -10,5 +10,14 @@
 	<atom:link href="http://produktif.id/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Umum</title>
+      <link>http://produktif.id/categories/umum/</link>
+      <pubDate>Fri, 08 Dec 2017 01:08:42 +0700</pubDate>
+      
+      <guid>http://produktif.id/categories/umum/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
