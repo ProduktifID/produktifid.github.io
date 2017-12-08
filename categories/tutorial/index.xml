@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Produktif ID</title>
-    <link>http://produktif.id/</link>
-    <description>Recent content on Produktif ID</description>
+    <title>Tutorial on Produktif ID</title>
+    <link>http://produktif.id/categories/tutorial/</link>
+    <description>Recent content in Tutorial on Produktif ID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <lastBuildDate>Fri, 08 Dec 2017 14:10:53 +0700</lastBuildDate>
     
-	<atom:link href="http://produktif.id/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://produktif.id/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -35,19 +35,6 @@ git push -u origin master
 &lt;/code&gt;
 &lt;/pre&gt;
 &lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tentang ProduktifID</title>
-      <link>http://produktif.id/post/tentang-produktifid/</link>
-      <pubDate>Fri, 08 Dec 2017 01:08:42 +0700</pubDate>
-      
-      <guid>http://produktif.id/post/tentang-produktifid/</guid>
-      <description>&lt;p&gt;Bismillah.
-Assalamu&amp;rsquo;alaykum warahmatullahi wabarakatuh.
-Salam sejahtera.&lt;/p&gt;
-
-&lt;p&gt;Perkenalkan, kami adalah ProduktifID. Kalian boleh melafalkan kami dengan &amp;ldquo;produktif ide&amp;rdquo; atau &amp;ldquo;produktifit&amp;rdquo;, silakan dipilih mana yang sekiranya enak diucap. ProduktifID sudah ada sejak tahun 2016, namun hingga penghujung tahun 2017 ini masih belum ada karya yang kami ukir. &lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -6,10 +6,36 @@
     <description>Recent content in Posts on Produktif ID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 08 Dec 2017 01:08:42 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2017 14:10:53 +0700</lastBuildDate>
     
 	<atom:link href="http://produktif.id/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cara Install Hugo Di Github Pages</title>
+      <link>http://produktif.id/post/cara-install-hugo-di-github-pages/</link>
+      <pubDate>Fri, 08 Dec 2017 14:10:53 +0700</pubDate>
+      
+      <guid>http://produktif.id/post/cara-install-hugo-di-github-pages/</guid>
+      <description>&lt;p&gt;Berikut ini adalah command untuk menginstall Hugo pada Github Pages.
+&lt;pre&gt;
+&lt;code&gt;cd blog
+git init
+rm -rf public
+git remote add origin &lt;a href=&#34;https://github.com/ProduktifID/web.git&#34;&gt;https://github.com/ProduktifID/web.git&lt;/a&gt;
+git add .
+git commit -m &amp;ldquo;&amp;rdquo;
+git push -u origin master
+git submodule add -b master &lt;a href=&#34;https://github.com/ProduktifID/produktifid.github.io.git&#34;&gt;https://github.com/ProduktifID/produktifid.github.io.git&lt;/a&gt; public
+hugo
+cd public
+git add .
+git commit -m &amp;ldquo;&amp;rdquo;
+git push -u origin master
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Tentang ProduktifID</title>
