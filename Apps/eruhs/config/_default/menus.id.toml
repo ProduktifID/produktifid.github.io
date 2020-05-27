@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "garapan"
+  name = "Garapan"
+  url = "garapan"
+  weight = 1
+
+[[main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "blog"
+  weight = 2
+
+[[main]]
+  identifier = "tentang"
+  name = "Tentang"
+  url = "tentang"
+  weight = 3

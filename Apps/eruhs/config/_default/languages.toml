@@ -1,0 +1,14 @@
+[id]
+  title = "Eru HS"
+  languageName = "Indonesian"
+  weight = 1
+
+[en]
+  title = "Eru HS"
+  languageName = "English"
+  weight = 2
+
+[jp]
+  title = "エルです"
+  languageName = "日本語"
+  weight = 3
