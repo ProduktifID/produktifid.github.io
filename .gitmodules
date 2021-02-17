@@ -1,0 +1,12 @@
+[submodule "hugo/themes/bootstrap"]
+	path = hugo/themes/bootstrap
+	url = https://github.com/mmrath/hugo-bootstrap.git
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
+[submodule "Apps/eruhs/themes/zdoc"]
+	path = Apps/eruhs/themes/zdoc
+	url = https://github.com/zzossig/hugo-theme-zdoc.git
+[submodule "Apps/hugo-theme-zdoc"]
+	path = Apps/hugo-theme-zdoc
+	url = https://github.com/zzossig/hugo-theme-zdoc
